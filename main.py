@@ -2,7 +2,7 @@ import tkinter as tk
 
 import random
 import math
-from tkinter.constants import CURRENT
+
 
 
 screen_width = 500
